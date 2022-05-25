@@ -11,7 +11,7 @@ Let's start http server on localhost with port 8082.
 
 would generate code(using cutie-http library):
 
-```
+```js
 
 'use strict'
 
